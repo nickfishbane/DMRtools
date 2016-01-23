@@ -1,0 +1,8 @@
+Package: DMRtools
+Title: Helpful tools for differential 450K methylation analysis
+Version: 0.0.0.9000
+Authors@R: person("Nick", "Fishbane", email = "nick.fishbane@hli.ubc.ca", role = c("aut", "cre"))
+Description: Coming soon.
+Depends: R (>= 3.2.1)
+License: What license is it under?
+LazyData: true
