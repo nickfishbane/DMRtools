@@ -1,8 +1,11 @@
 Package: DMRtools
-Title: Helpful tools for differential 450K methylation analysis
+Title: Tools for 450K differential methylation analysis
 Version: 0.0.0.9000
 Authors@R: person("Nick", "Fishbane", email = "nick.fishbane@hli.ubc.ca", role = c("aut", "cre"))
-Description: Coming soon.
-Depends: R (>= 3.2.1)
-License: What license is it under?
+Description: A bunch of functions to facilitate the use of the limma and DMRcate packages for the analysis of 
+differential methylation in data generated from the Illumina 450K methylation chip.
+Depends:
+    R (>= 3.2.1)
+License: Open
 LazyData: true
+RoxygenNote: 5.0.1
