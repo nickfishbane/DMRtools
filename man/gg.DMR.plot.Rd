@@ -13,7 +13,7 @@ gg.DMR.plot(region = NULL, gene = NULL, f = fDat, ...)
 
 \item{f}{A data.frame of CpG site annotations for the 450K annotation, which is subsetted for the \code{gene.plot} function}
 
-\item{...}{Arguments to pass}
+\item{...}{Arguments to pass to \code{gene.plot()} function}
 }
 \value{
 ggplot object, same as output of \code{gene.plot}

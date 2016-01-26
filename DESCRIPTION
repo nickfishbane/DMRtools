@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: person("Nick", "Fishbane", email = "nick.fishbane@hli.ubc.ca", role = c("aut", "cre"))
 Description: A bunch of functions to facilitate the use of the limma and DMRcate packages for the analysis of differential methylation in data generated from the Illumina 450K methylation chip.
 Depends:
-    R (>= 3.2.1)
+    R (>= 3.2.1), ggplot2, limma, DMRcate, reshape2, dplyr
 License: Open
 LazyData: true
 RoxygenNote: 5.0.1
